@@ -31,7 +31,9 @@ O projeto conta com uma aplicação desenvolvida em **Streamlit**, que permite a
 
 - Filtrar os dados por ano  
 - Explorar informações por categorias  
-- Visualizar gráficos e métricas de forma dinâmica  
+- Visualizar gráficos e métricas de forma dinâmica
+
+Aplicação: https://projeto-dados-alura.streamlit.app/
 
 ## 🛠️ Tecnologias Utilizadas
 
