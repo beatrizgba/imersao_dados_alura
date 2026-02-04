@@ -10,7 +10,7 @@ st.set_page_config(
     layout='wide'
 )
 
-df = pd.read_csv("https://github.com/beatrizgba/imersao_dados_alura/blob/main/dados_imersao_alura_limpo.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/beatrizgba/imersao_dados_alura/main/dados_imersao_alura_limpo.csv")
 
 # -- Barra lateral
 st.sidebar.header('🔍 Filtros')
@@ -169,5 +169,6 @@ with col_graf4:
 st.subheader('Dados Detalhados')
 
 st.dataframe(df_filtrado)
+
 
 
