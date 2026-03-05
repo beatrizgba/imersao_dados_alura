@@ -41,4 +41,9 @@ Aplicação: https://projeto-dados-alura.streamlit.app/
 - Pandas  
 - Streamlit  
 - Plotly  
-- PyCountry 
+- PyCountry
+
+## Esboço
+
+<img width="1853" height="776" alt="image" src="https://github.com/user-attachments/assets/271aef7b-d3ab-4938-9480-deed68652981" />
+
