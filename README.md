@@ -46,4 +46,7 @@ Aplicação: https://projeto-dados-alura.streamlit.app/
 ## Esboço
 
 <img width="1853" height="776" alt="image" src="https://github.com/user-attachments/assets/271aef7b-d3ab-4938-9480-deed68652981" />
+<img width="1521" height="465" alt="image" src="https://github.com/user-attachments/assets/0f42e1d8-056a-4f16-924a-15be9d723c15" />
+<img width="1530" height="484" alt="image" src="https://github.com/user-attachments/assets/00d72f71-d51a-4da5-9aee-69ad69ef5b39" />
+
 
